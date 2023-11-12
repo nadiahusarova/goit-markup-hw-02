@@ -53,11 +53,9 @@ letter-spacing: 0.02em;
  }
  
  /* address */
- /* .address{
-    color: #434455;
+  .address{
     font-style: normal;
-    letter-spacing: 0.02em
- } */
+ } 
 .contacts-link{
 font-size: 16px;
 color: #434455;
