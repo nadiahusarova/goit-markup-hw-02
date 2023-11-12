@@ -1,13 +1,61 @@
 
-
-.list{
+/* Deleted browser style */
+ .list{
     list-style-type: none;
 }
 
 .link {
    text-decoration: none;
-}
+} 
 
 button{
     cursor: pointer;
+}
+
+/* HEDER */
+.logo{
+color: #2E2F42;
+font-family: 'Raleway', sans-serif;
+font-size: 18px;
+font-weight: 700;
+line-height: 1.16; 
+letter-spacing: 0.03em;
+text-transform: uppercase;
+}
+
+.logo-head{
+color: #4D5AE5;
+}
+
+/* navigation */
+.menu-link{
+color: #2E2F42;
+font-family: 'Roboto', sans-serif;
+font-size: 16px;
+font-weight: 500;
+line-height: 1.5; 
+letter-spacing: 0.02em;
+}
+
+ .menu-link:hover,
+ .menu-link:focus
+ .menu-link:active{
+ color: #404BBF;
+ }
+ 
+ /* address */
+
+.contacts-link{
+color: #434455;
+font-family: 'Roboto', sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 1.5;
+letter-spacing: 0.02em;
+}
+
+.contacts-link:hover,
+.contacts-link:focus{
+  color:#404BBF;
 }
