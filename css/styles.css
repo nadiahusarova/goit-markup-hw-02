@@ -110,7 +110,8 @@ letter-spacing: 0.02em;
 }
 
 .benefits-p{
-font-size: 16px; 
+font-size: 16px;
+letter-spacing: 0.02em; 
 }
 
 /* 3 section */
@@ -118,6 +119,7 @@ font-size: 16px;
     background: #F4F4FD;
 }
 .third-section-title{
+ color: #2E2F42;
 text-align: center;
 font-size: 36px;
 font-weight: 700;
@@ -133,6 +135,7 @@ text-transform: capitalize;
 .team-title,
 .team-txt{
     background-color: #FFF;
+    letter-spacing: 0.02em;
 }
 
 .team-title{
@@ -152,7 +155,7 @@ font-size: 16px;
 
 /* 4 section */
 .fourth-section-title{
-color: #2e2f42;
+    color: #2E2F42;
 text-align: center;
 font-size: 36px;
 font-weight: 700;
@@ -187,6 +190,7 @@ letter-spacing: 0.02em;
 .bottom-txt{
     color: #F4F4FD;
     font-size: 16px;
+    letter-spacing: 0.02em;
 
 }
 .logo-text{
